@@ -1,5 +1,7 @@
 // om bhombe
 //23070123039
+//Aim:Programing a Simple Calculator
+
 #include <iostream>
 using namespace std;
 
